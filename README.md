@@ -1,9 +1,9 @@
-#Honeypot Project - Information Security
+# Honeypot Project - Information Security
 A Python-based honeypot project designed to simulate a vulnerable system, log attacker activities, and gather intelligence about their techniques and intentions.
 
-#Please note that running a honeypot can expose your system to potential risks. It is essential to implement proper security measures and monitoring when using a honeypot.
+# Please note that running a honeypot can expose your system to potential risks. It is essential to implement proper security measures and monitoring when using a honeypot.
 
-#Features
+# Features
   1. Simulates a Kali Linux environment with a fake command prompt
   2. Logs usernames, passwords, and commands used by attackers
   3. Handles multiple connections simultaneously using threads
