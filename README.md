@@ -11,6 +11,7 @@ A Python-based honeypot project designed to simulate a vulnerable system, log at
  
 # Installation
   1. Clone this repository: 
+    
     git clone https://github.com/abdulsamieofficial/Honeypots.git
   2. Change to the project directory:
     cd honeypot-project
@@ -20,7 +21,7 @@ A Python-based honeypot project designed to simulate a vulnerable system, log at
 # Usage
   1. Open honeypot.py with a text editor and adjust the host variable to your system's IP address.
   2. Run the script:
-Use 'python3 honeypot.py'
+    `python3 honeypot.py`
   4. Monitor the log.txt file for logged activities from attackers.
   
 # Customization
