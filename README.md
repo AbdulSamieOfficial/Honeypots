@@ -14,15 +14,18 @@ A Python-based honeypot project designed to simulate a vulnerable system, log at
     
     git clone https://github.com/abdulsamieofficial/Honeypots.git
   2. Change to the project directory:
+  
     cd honeypot-project
   3. Install the required dependencies:
+  
     pip install -r requirements.txt
 
 # Usage
   1. Open honeypot.py with a text editor and adjust the host variable to your system's IP address.
   2. Run the script:
-    `python3 honeypot.py`
-  4. Monitor the log.txt file for logged activities from attackers.
+  
+    python3 honeypot.py
+  5. Monitor the log.txt file for logged activities from attackers.
   
 # Customization
   1. Change the predefined username and password used for authentication by modifying the values in the threaded_client(c) function.
