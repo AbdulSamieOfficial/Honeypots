@@ -20,7 +20,7 @@ A Python-based honeypot project designed to simulate a vulnerable system, log at
 # Usage
   1. Open honeypot.py with a text editor and adjust the host variable to your system's IP address.
   2. Run the script:
-    python3 honeypot.py
+    Use python3 honeypot.py
   3. Monitor the log.txt file for logged activities from attackers.
   
 # Customization
